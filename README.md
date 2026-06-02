@@ -1,4 +1,4 @@
-# Aiogram Sea Helper Bots
+# Aiogram / Helper Bots
 
 Legacy Aiogram-based Telegram bots for maritime community support workflows.
 
@@ -7,7 +7,7 @@ The repository contains two bot entrypoints:
 - `Mainbot3.py` - chat moderation, onboarding messages, rating handling, and ChatGPT-style replies.
 - `Seahelper3.py` - menu-driven helper bot with company lookup, rules, admin contact flow, and FSM-based conversations.
 
-This is a portfolio cleanup of an older private bot project. Secrets and experimental Dialogflow/test files were removed from the public tree.
+This is a portfolio cleanup of an older private bot project.
 
 ## Features
 
